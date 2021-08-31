@@ -1,0 +1,5 @@
+*.swp
+*.pdf
+.DS_Store
+.auxtex
+/tex/csv/*.csv
